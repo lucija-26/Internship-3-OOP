@@ -1,0 +1,14 @@
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\bin\Debug\net6.0\Internship-3-OOP.exe
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\bin\Debug\net6.0\Internship-3-OOP.deps.json
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\bin\Debug\net6.0\Internship-3-OOP.runtimeconfig.json
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\bin\Debug\net6.0\Internship-3-OOP.dll
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\bin\Debug\net6.0\Internship-3-OOP.pdb
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.AssemblyInfoInputs.cache
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.AssemblyInfo.cs
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.dll
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\refint\Internship-3-OOP.dll
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.pdb
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\Internship-3-OOP.genruntimeconfig.cache
+C:\Users\Lucija\source\repos\Internship-3-OOP\Internship-3-OOP\obj\Debug\net6.0\ref\Internship-3-OOP.dll
